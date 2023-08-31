@@ -1,0 +1,23 @@
+Project Name : PATT SE HEADSHOT
+
+
+Role - Full Stack Developer
+Front-End Team Size - 04
+Back-End Team Size - 02
+Technologies Used in Front-End - Next JS with Typescript, Context API, SCSS & Axios
+Technologies Used in Back-End - Node JS, Express JS, Mongo DB & Typescript
+
+
+Description : I actively contributing as a Full Stack Developer to a dynamic gaming app called
+PATT SE HEADSHOT, a platform that facilitated user participation in BGMI gaming contests with
+corresponding monetary rewards based on their in-game performance. The project focused on
+creating an engaging user experience by implementing a role-based user interface tailored to
+different user categories.
+This project placed a primary emphasis on delineating distinct roles: Administrator, Spectator,
+and Standard User. The application was engineered to enable users to participate in diverse
+Battlegrounds Mobile India (BGMI) gaming competitions encompassing Squad, Duo, and Solo
+matches.
+A pivotal feature enhancing the application's user-friendliness entails the capability for users,
+upon contest registration, to extend invitations to their acquaintances, to join them in the
+contest. Moreover, users retain the capacity to manage records associated with friends they
+had previously invited.

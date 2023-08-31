@@ -1,0 +1,14 @@
+Project Name : Rozi - Roti
+Role - Front-End Developer
+Team Size - 01
+Technologies Used - React JS, Redux Tool Kit, CSS, Axios
+
+Description : I played a pivotal role in the development of an innovative project centered
+around a QR-based authenticated attendance system. This system introduced a seamless and
+secure approach to recording attendance through QR code scanning. The project revolved
+around a unique concept, ensuring attendance accuracy while promoting user convenience.
+In this project integrated QR code functionality into the attendance system. Users were
+required to scan a QR code provided within the application to register their attendance.
+Implemented a sophisticated authentication mechanism that ensured the legitimacy of
+attendance records. QR code scanning was permitted only once within a specified 12-hour
+window, effectively preventing duplicate or fraudulent attendance entries.
